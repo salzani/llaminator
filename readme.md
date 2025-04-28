@@ -1,7 +1,7 @@
 # 🦙 llaminator, a simple chatbot using Ollama. 🦙
 
 <p align="center">
-  <img src="app/assets/img/llaminator.jpeg" alt="llaminator" />
+  <img src="assets/img/llaminator.jpeg" alt="llaminator" />
 </p>
 
 ## What is it? 
@@ -10,7 +10,7 @@
 
 **Here is an example of a simple prompt using the Mistral-7B model**
 
-![llaminator](app/assets/img/example.png)
+![llaminator](assets/img/example.png)
 
 
 ## How was it done?
